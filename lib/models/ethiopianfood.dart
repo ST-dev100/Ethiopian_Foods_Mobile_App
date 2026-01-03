@@ -29,14 +29,16 @@ class Ethiopianfood {
       ),
       Ethiopianfood(
         name: 'Tibs',
-        description: 'Sautéed meat cubes often cooked with vegetables and spices.',
+        description:
+            'Sautéed meat cubes often cooked with vegetables and spices.',
         imageUrl: 'assets/images/tibs.jpg',
         cookingInstructions:
-            'Heat oil, sauté meat cubes with onions, garlic, and spices. Add vegetables and cook until tender.',
+            'Heat oil in a pan, add meat cubes and sauté until browned. Add chopped onions, garlic, and spices, cook for a few minutes. Then add vegetables and continue cooking until tender and flavorful. Serve hot with injera or rice.',
       ),
       Ethiopianfood(
         name: 'Kitfo',
-        description: 'Minced raw beef seasoned with spices and clarified butter.',
+        description:
+            'Minced raw beef seasoned with spices and clarified butter.',
         imageUrl: 'assets/images/kitfo.jpg',
         cookingInstructions:
             'Mix minced beef with mitmita spice and niter kibbeh (spiced butter). Serve raw or lightly cooked.',
